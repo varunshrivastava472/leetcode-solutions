@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0263-ugly-number) |
+## Array
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
