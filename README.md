@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
