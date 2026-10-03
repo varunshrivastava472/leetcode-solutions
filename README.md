@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -18,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
