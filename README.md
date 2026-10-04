@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Queue
 |  |
 | ------- |
