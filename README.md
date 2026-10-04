@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Stack
