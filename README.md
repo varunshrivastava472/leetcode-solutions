@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
