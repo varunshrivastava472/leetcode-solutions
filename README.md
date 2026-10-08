@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
