@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1929-concatenation-of-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
