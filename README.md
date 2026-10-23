@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0415-add-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Quicksort
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
