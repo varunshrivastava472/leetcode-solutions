@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [3110-score-of-a-string](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
