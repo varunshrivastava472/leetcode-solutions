@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1920-build-array-from-permutation](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
