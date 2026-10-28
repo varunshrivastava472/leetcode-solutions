@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
