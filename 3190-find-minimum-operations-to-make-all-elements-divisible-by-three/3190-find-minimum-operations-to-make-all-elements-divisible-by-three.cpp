@@ -12,6 +12,6 @@ public:
               else if((nums[i]+1)%3==0)
              count++;
         }
-        return count++;
+        return count;
     }
 };
