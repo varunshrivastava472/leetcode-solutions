@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2363-merge-similar-items](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2363-merge-similar-items](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2363-merge-similar-items](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
