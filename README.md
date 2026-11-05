@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -210,9 +212,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
@@ -247,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/varunshrivastava472/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
